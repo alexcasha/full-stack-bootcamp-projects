@@ -16,6 +16,9 @@
 
 #yellow {
     color: yellow;
+    /*Se agregó esta parte al ejercicio por legibilidad de la letra, ya que el color es muy claro.*/
+    -webkit-text-stroke-color: blue;
+    -webkit-text-stroke-width: 0.6px;
 }
 
 img {
