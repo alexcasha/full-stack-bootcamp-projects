@@ -10,7 +10,13 @@ Mi objetivo con este repositorio es documentar mi proceso de aprendizaje, tener 
 ## 🛠️ Tecnologías utilizadas
 
 A lo largo del bootcamp he trabajado con tecnologías como:
-- <img src="https://img.shields.io/badge/HTML5-F2F230" alt="HTML5">, <img src="https://img.shields.io/badge/CSS3-C2F261" alt="CSS3">
+
+### Lenguajes
+| Escritura y estilo | CSS Frameworks |
+|--------------|--------------|
+| <img src="https://img.shields.io/badge/HTML5-F2F230" alt="HTML5">   <img src="https://img.shields.io/badge/CSS3-C2F261" alt="CSS3"> | <img src="https://img.shields.io/badge/Bootsrap5-7D70BA" alt="Bootstrap5"> |
+
+### Programas
 - <img src="https://img.shields.io/badge/Git-91F291" alt="Git"> & <img src="https://img.shields.io/badge/Github-61F2C2" alt="Github">
 - <img src="https://img.shields.io/badge/VSCode-30F2F2" alt="VSCode">
 
@@ -37,8 +43,20 @@ A lo largo del bootcamp he trabajado con tecnologías como:
 / Unidad 7 / CSS Avanzado
   - Proyecto: Website - Agencia de Diseño Web
     
-/ Unidad 8 / 
-  - Proyecto:
+/ Unidad 8 / Flexbox
+  - Proyecto: Tabla de precios
 
+/ Unidad 9 / Grid 
+  - Proyecto: Mondrian Painting
+
+/ Unidad 10 / Bootstrap 
+  - Proyecto: TinDong Startup Website
+
+/ Unidad 11 / Escuela de Diseño web - Crea un sitio web que las personas amen
+  - Proyecto: Práctica en Diseño web
+
+/ Unidad 12 / Capstone Project 2
+  - Proyecto: Portfolio
+    
 ## ✍️ Notas personales
 Cada unidad puede incluir notas, retos personales y aprendizajes clave. Este es un espacio vivo que se irá actualizando conforme avance en mi formación.
