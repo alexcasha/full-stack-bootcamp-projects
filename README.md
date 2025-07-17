@@ -17,8 +17,10 @@ A lo largo del bootcamp he trabajado con tecnologías como:
 | <img src="https://img.shields.io/badge/HTML5-F2F230" alt="HTML5">   <img src="https://img.shields.io/badge/CSS3-C2F261" alt="CSS3"> | <img src="https://img.shields.io/badge/Bootsrap5-7D70BA" alt="Bootstrap5"> |
 
 ### Programas
-- <img src="https://img.shields.io/badge/Git-91F291" alt="Git"> & <img src="https://img.shields.io/badge/Github-61F2C2" alt="Github">
-- <img src="https://img.shields.io/badge/VSCode-30F2F2" alt="VSCode">
+| Programación | Diseño |
+|--------|--------------|
+| <img src="https://img.shields.io/badge/Git-91F291" alt="Git"> & <img src="https://img.shields.io/badge/Github-61F2C2" alt="Github"> | <img src="https://img.shields.io/badge/Figma-545863" alt="Figma"> |
+| <img src="https://img.shields.io/badge/VSCode-30F2F2" alt="VSCode"> |
 
 ## Estructura del repositorio
 
