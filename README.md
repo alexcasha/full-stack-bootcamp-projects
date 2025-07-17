@@ -14,7 +14,7 @@ A lo largo del bootcamp he trabajado con tecnologías como:
 ### Lenguajes
 | Escritura y estilo | CSS Frameworks |
 |--------------|--------------|
-| <img src="https://img.shields.io/badge/HTML5-F2F230" alt="HTML5">   <img src="https://img.shields.io/badge/CSS3-C2F261" alt="CSS3"> | <img src="https://img.shields.io/badge/Bootsrap5-7D70BA" alt="Bootstrap5"> |
+| <img src="https://img.shields.io/badge/HTML5-F2F230" alt="HTML5">   <img src="https://img.shields.io/badge/CSS3-C2F261" alt="CSS3"> | <img src="https://img.shields.io/badge/Bootstrap5-7D70BA" alt="Bootstrap5"> |
 
 ### Programas
 | Programación | Diseño |
